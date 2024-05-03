@@ -9,9 +9,7 @@ $drive_capacity_id= $_GET['drive_capacity_id'];
 	$mysqli->query($sql);
 ?>
 <script>
-		alert('Data Deleted successfully');
-		var newLocation = "<?php echo 'add_drive_capacity.php'; ?>";
-		window.location = newLocation;
+
 	</script>
 <?php
 include_once('footer.php');
