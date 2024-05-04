@@ -111,11 +111,7 @@ if(!isset($_SESSION['username']))
 									$mysqli->query($sql);	
 
 									?>
-									<script type="text/javascript">
-										alert("To Do Added Successfully ");
-										var newLocation = "<?php echo 'todo_list.php' ?> ";
-										window.location = newLocation;   
-									</script>
+							
 									<?php
 								}	
 							}	
