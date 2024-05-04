@@ -11,7 +11,7 @@ $mysqli->query($sql);
 
 ?>
 <script type="text/javascript">
-	alert("Customer Status Updated Successfully ");
+	alert("deleted sussesfuly");
 	var newLocation = "<?php echo  'customer_list.php' ?> ";
 	window.location = newLocation;   
 </script>
