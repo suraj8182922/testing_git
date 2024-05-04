@@ -86,7 +86,7 @@ include_once('functions.php');
             <div class="col-md-12">
 				<div class="box box-info">
 					<div class="box-header with-border forpghdr">
-						<center><h3 class="box-title">Customer To Do List</h3></center>
+						<center><h3 class="box-title">CMy segment</h3></center>
 					</div>
 					<form action="" method="POST"class="form-horizontal">
 						<div class="box-body">
